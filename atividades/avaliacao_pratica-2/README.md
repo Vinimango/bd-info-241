@@ -96,7 +96,7 @@
   - segue abaixo o codigo para popular as tabelas:
     ~~~sql
     -- Inserindo dados na tabela TB_ALUNOS
-    INSERT INTO TB_ALUNOS (nome) VALUES ('Joao Silva');
+    INSERT INTO TB_ALUNOS (nome) VALUES ('Vinicius Mango');
     INSERT INTO TB_ALUNOS (nome) VALUES ('Maria Oliveira');
     INSERT INTO TB_ALUNOS (nome) VALUES ('Carlos Souza');
     INSERT INTO TB_ALUNOS (nome) VALUES ('Fernanda Costa');
@@ -107,7 +107,7 @@
     INSERT INTO TB_ALUNOS (nome) VALUES ('Paulo Ferreira');
 
     -- Inserindo dados na tabela TB_PROFESSOR
-    INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Ana Lima');
+    INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Vinicius Silva');
     INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Pedro Santos');
     INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Carla Mendes');
     INSERT INTO TB_PROFESSOR (nome) VALUES ('Prof. Joao Souza');
